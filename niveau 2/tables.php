@@ -17,10 +17,10 @@ The above copyright notice and this permission notice shall be included in all c
   <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <link rel="stylesheet" href="material-dashboard-rtl.css">
-  <link rel="stylesheet" href="material-dashboard.css">
-  <link rel="stylesheet" href="material-dashboard.css.map">
-  <link rel="stylesheet" href="material-dashboard.min.css">
+  <link rel="stylesheet" href="./assets/assmaterial-dashboard-rtl.css">
+  <link rel="stylesheet" href="./assets/material-dashboard.css">
+  <link rel="stylesheet" href="./assets/material-dashboard.css.map">
+  <link rel="stylesheet" href="./assets/material-dashboard.min.css">
   <title>
     Material Dashboard by Creative Tim
   </title>
