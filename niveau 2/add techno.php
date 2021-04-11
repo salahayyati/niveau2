@@ -33,6 +33,7 @@ The above copyright notice and this permission notice shall be included in all c
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="demo.css" rel="stylesheet" />
   <link rel="stylesheet" href="./assets/adddev.css">
+  <link rel="stylesheet" href="./assets/material-dashboard.css">
 </head>
 
 <body class="">
