@@ -61,9 +61,9 @@ echo "filed" . $e->getMessage();//for affich message "filed" and problem
   <!-- <link href="../assets/css/material-dashboard.css?v=2.1.2" rel="stylesheet" /> -->
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <!-- <link href="../assets/demo/demo.css" rel="stylesheet" /> -->
-  <link rel="stylesheet" href="material-dashboard.css">
-  <link rel="stylesheet" href="material-dashboard.main.css">
-  <link rel="stylesheet" href="material-dashboard-rtl.css">
+  <link rel="stylesheet" href="./assets/material-dashboard.css">
+  <link rel="stylesheet" href="./assets/material-dashboard.main.css">
+  <link rel="stylesheet" href="./assets/material-dashboard-rtl.css">
 </head>
 
 <body class="">
